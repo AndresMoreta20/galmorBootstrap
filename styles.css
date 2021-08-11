@@ -1,0 +1,15 @@
+@media(min-width: 768px) {
+    .news-input{
+        width: 50%;
+    } 
+}
+.bg-pink {
+    /* background: #c9c095;  */
+    background: #DA7B93;
+    
+}
+/*
+
+.bg-image {
+    background-image: url("images/banner.png");
+ } */
